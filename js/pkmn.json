@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "nombre": "Pokeball",
+        "precio":1000,
+        "categoria": "juguetes",
+        "url": "pokeball.webp"
+    },
+    {
+        "id":2,
+        "nombre": "zapatilla con diseño de Eevee",
+        "precio":4200,
+        "categoria": "zapatillas",
+        "url": "zapatillas-eevee.webp"
+    },
+    {
+        "id":3,
+        "nombre": "remera con diseño de Popplio",
+        "precio":3500,
+        "categoria":"ropa",
+        "url": "remera-popplio.webp"
+    },
+    {
+        "id":4,
+        "nombre": "Pokemon Sol.3DS",
+        "precio":10000,
+        "categoria": "juegos",
+        "url": "pokemon-sol.webp"
+    },
+    {
+        "id":5,
+        "nombre": "Figura de Lucario",
+        "precio":3000,
+        "categoria": "figuras",
+        "url": "figura-lucario.webp"
+    },
+    {
+        "id":6,
+        "nombre": "zapatilla con diseño de Snorlax",
+        "precio":4200,
+        "categoria": "zapatillas",
+        "url": "zapatillas-snorlax.webp"
+    },
+    {
+        "id":7,
+        "nombre": "Caja misteriosa",
+        "precio":2100,
+        "categoria": "juguetes",
+        "url": "caja-misteriosa.webp"
+    },
+    {
+        "id":8,
+        "nombre": "zapatilla con diseño de Pikachu",
+        "precio":4200,
+        "categoria": "zapatillas",
+        "url": "zapatillas-pikachu.webp"
+    },
+    {
+        "id":9,
+        "nombre": "Peluche de Eevee",
+        "precio":4000,
+        "categoria": "peluches",
+        "url": "peluche-eevee.webp"
+    },
+    {
+        "id":10,
+        "nombre": "Pokemon Y.3DS",
+        "precio":10000,
+        "categoria": "juegos",
+        "url": "pokemon-y.webp"
+    },
+    {
+        "id":11,
+        "nombre": "remera con diseño de Litten",
+        "precio":3500,
+        "categoria": "ropa",
+        "url": "remera-litten.webp"
+    },
+    {
+        "id":12,
+        "nombre": "Peluche de Pikachu",
+        "precio":4000,
+        "categoria": "peluches",
+        "url": "peluche-pikachu.webp"
+    },
+    {
+        "id":13,
+        "nombre": "remera con diseño de Rowlet",
+        "precio":3500,
+        "categoria": "ropa",
+        "url": "remera-rowlet.webp"
+    },
+    {
+        "id":14,
+        "nombre": "Figura de Charizard",
+        "precio":3000,
+        "categoria":"figuras",
+        "url": "figura-charizard.webp"
+    },
+    {
+        "id":15,
+        "nombre": "Pokemon: Let's go eevee.3DS",
+        "precio":10000,
+        "categoria": "juegos",
+        "url": "lets-go-eevee.webp"
+    },
+    {
+        "id":16,
+        "nombre": "Figura de Zoroark(Hisui)",
+        "precio":3000,
+        "categoria": "figuras",
+        "url": "figura-zoroark-hisui.webp"
+    }
+]
